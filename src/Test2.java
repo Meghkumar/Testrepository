@@ -6,6 +6,7 @@ public class Test2
 			{
 
 				System.out.println("This 2nd class");
+				System.out.println("This is one more condition");
 			}	
 
 	}
